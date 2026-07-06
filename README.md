@@ -25,7 +25,7 @@ it uses a xiao which has all the gpio pins internally connected. how does that e
 
 # how do i make it?
 - take an arcade button and the broken xiao
-- just connect the arcade button to any gpio pin and 3v3
+- just connect the arcade button to any gpio pin (assuming you have a xiao where every gpio pin is internally connected) and 3v3
 - connect the arcade button to the xiao
 - put everything into said cardboard box
 - tape up the cardboard box
